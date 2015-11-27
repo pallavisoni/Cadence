@@ -1,0 +1,19 @@
+!SESSION 2015-11-27 17:06:50.538 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Heena\git\Cadence -product org.eclipse.epp.package.java.product
+
+!ENTRY com.salesforce.ide.core 2 0 2015-11-27 17:08:08.820
+!MESSAGE  WARN [2015-11-27 17:08:08,820] (ConnectionFactory.java:clearCache:209) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-11-27 17:08:08.830
+!MESSAGE  WARN [2015-11-27 17:08:08,830] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-11-27 17:08:08.830
+!MESSAGE  WARN [2015-11-27 17:08:08,830] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+
